@@ -3,4 +3,8 @@ hello world
 hello world
 dskbsdakbsd
 ssddshis
+<<<<<<< Updated upstream
 New change
+=======
+Dfsdsfdfds
+>>>>>>> Stashed changes
